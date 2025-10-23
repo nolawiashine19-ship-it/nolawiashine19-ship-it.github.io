@@ -16,7 +16,7 @@ name: Nolawi Ashine
 headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Creative thinker with a passion for Mechanical Engineering. Highly experienced in 3D modeling software, Finite Element
-analysis, as well as various manufacturing methods. Looking to bring fresh ideas to a forward-thinking team.
+  analysis, as well as various manufacturing methods. Looking to bring fresh ideas to a forward-thinking team.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
