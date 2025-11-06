@@ -8,10 +8,10 @@ skills:
   - Finite Element Anylasis
   - Experimental Manufacturing Procces 
   - Computer Aided Design
-  - 
+  - Multi-Subteam collobartion
   - Thermal simulation
 
-main-image: /project2.jpg
+main-image: /Bonita.png
 ---
 
 ---
