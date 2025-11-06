@@ -11,7 +11,7 @@ skills:
   - Multi-Subteam collobartion
   - Thermal simulation
 
-main-image: /Bonita.png
+main-image: /BonitoIREC.HEIC
 ---
 
 ---
