@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Bonita
+description: Our inhouse manufactured Level 3 rocket for the International Rocket Engineering Competition I Contributed to designing, analyzing, and manufacturing the rocket's main body, including the nose cone and fins.Collaborated with the Payload Team to design and implement an electromagnetic induction system capable of generating and storing electricity.
 skills: 
   - Structural analysis
   - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
+  - Finite Element Anylasis
+  - Experimental Manufacturing Procces 
+  - Computer Aided Design
+  - 
   - Thermal simulation
 
 main-image: /project2.jpg
