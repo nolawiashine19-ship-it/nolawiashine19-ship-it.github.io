@@ -11,11 +11,11 @@ skills:
   - Multi-Subteam collobartion
   - Thermal simulation
 
-main-image: /BonitoIREC.HEIC
+main-image: /BonitaB.jpg
 ---
 
 ---
-# Header 1 
+# Manufacturing Methods
 Used for the title (already generated automatically at the top)
 ## Header 2  
 Use this for the header of each section
