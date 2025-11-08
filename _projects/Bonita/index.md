@@ -15,17 +15,17 @@ main-image: /BonitaB.jpg
 ---
 
 ---
-# Design Process
+ Design Process
 Used for the title (already generated automatically at the top)
-## Upper Assembly
-### Nose Cone
-### UpperBody Tube
-### Avionics
-### Payload
-## Lower Assembly 
-### Fincan
-### Fins
-### Student research and development engine
+# Upper Assembly
+## Nose Cone
+## UpperBody Tube
+## Avionics
+## Payload
+# Lower Assembly 
+## Fincan
+## Fins
+## Student research and development engine
 
 
 
