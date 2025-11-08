@@ -19,6 +19,7 @@ main-image: /BonitaB.jpg
 Used for the title (already generated automatically at the top)
 # Upper Assembly
 ## Nose Cone
+For our nose cone we chose to do a von karmaan tip 
 ## UpperBody Tube
 ## Avionics
 ## Payload
