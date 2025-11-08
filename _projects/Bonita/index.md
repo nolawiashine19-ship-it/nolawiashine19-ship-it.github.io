@@ -15,12 +15,18 @@ main-image: /BonitaB.jpg
 ---
 
 ---
-# Manufacturing Methods
+# Design Process
 Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## Upper Assembly
+### Nose Cone
+### UpperBody Tube
+### Avionics
+### Payload
+## Lower Assembly 
+### Fincan
+### Fins
+### Student research and development engine
+
 
 
 ## Embedding images 
