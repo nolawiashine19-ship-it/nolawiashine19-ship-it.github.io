@@ -21,7 +21,7 @@ Used for the title (already generated automatically at the top)
 
 
 ## Nose Cone
-{% include image-gallery.html images="Nose_Cone_Chart.png" height ="250" %}
+{% include image-gallery.html images="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nose_cone_drag_comparison.svg/1280px-Nose_cone_drag_comparison.svg.png" height ="250" %}
 We decided to go with a von-karman tip due to our rocket being simulated to reach subsonic speeds to determine what tip to use we used a chart 
 
 
