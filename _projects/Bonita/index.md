@@ -21,49 +21,52 @@ Used for the title (already generated automatically at the top)
 
 
 ## Nose Cone
-
-
-
-
-"Flight simulations indicated our rocket will reach subsonic speeds. Based on aerodynamic reference charts for this flight regime, we selected a Von Kármán nose cone profile."
-
+<br>
+<br>
+<br>
+<br>
+Flight simulations indicated our rocket will reach subsonic speeds. Based on aerodynamic reference charts for this flight regime, we selected a Von Kármán nose cone profile.
+<br>
+<br>
 {% include image-gallery.html images="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nose_cone_drag_comparison.svg/1280px-Nose_cone_drag_comparison.svg.png" height ="250" %}
-
-
-
+<br>
+<br>
+<br>
+<br>
 ## UpperBody Tube
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Avionics
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ## Payload
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 # Lower Assembly 
-
-
-
+<br>
+<br>
+<br>
 ## Fincan
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ## Fins
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ## Student research and development engine
-
-
-
+<br>
+<br>
+<br>
 ## Embedding images 
 ### External images
 {% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
