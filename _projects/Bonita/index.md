@@ -21,8 +21,11 @@ Used for the title (already generated automatically at the top)
 
 
 ## Nose Cone
+
+"Flight simulations indicated our rocket will reach subsonic speeds. Based on aerodynamic reference charts for this flight regime, we selected a Von Kármán nose cone profile."
+
 {% include image-gallery.html images="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nose_cone_drag_comparison.svg/1280px-Nose_cone_drag_comparison.svg.png" height ="250" %}
-We decided to go with a von-karman tip due to our rocket being simulated to reach subsonic speeds to determine what tip to use we used a chart 
+
 
 
 ## UpperBody Tube
