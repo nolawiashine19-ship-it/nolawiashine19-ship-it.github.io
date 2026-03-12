@@ -21,8 +21,8 @@ Used for the title (already generated automatically at the top)
 
 
 ## Nose Cone
-
-We decided to go with a von-karman tip due to our rocket being simulated to reach subsonic speeds to determine what tip to use we used a chart indicited here 
+{% include image-gallery.html images="Nose_Cone_Chart.png" height ="250" %}
+We decided to go with a von-karman tip due to our rocket being simulated to reach subsonic speeds to determine what tip to use we used a chart 
 
 
 ## UpperBody Tube
